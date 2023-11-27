@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\.UPI YPTK\A semester 5\6 1 Praktek Kerja Lapangan\PKL_MI_20101152600025_TEGUH AUGANI\Toko_Sanjai_Nafama\dist\Toko_Sanjai_Nafama.jar</jar>
+  <outfile>E:\.UPI YPTK\A semester 5\6 1 Praktek Kerja Lapangan\PKL_MI_20101152600025_TEGUH AUGANI\Toko_Sanjai_Nafama\dist\TokoSanjaiNafama.exe</outfile>
+  <errTitle>Plis instal java</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <singleInstance>
+    <mutexName>TokoSanjaiNafama</mutexName>
+    <windowTitle>TokoSanjaiNafama</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>TokoSanjaiNafama</fileDescription>
+    <copyright>NIL</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>TokoSanjaiNafama</productName>
+    <companyName>teguh</companyName>
+    <internalName>TokoSanjaiNafama</internalName>
+    <originalFilename>TokoSanjaiNafama.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
